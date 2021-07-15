@@ -1,0 +1,190 @@
+.home-web .am-navbar{
+  height: 56px;
+  background-color: #108ee9;
+}
+
+.hot-cate .hot-cate-h1 {
+  height: 55px;
+  padding-left: 20px;
+  color:#666;
+  font-size: 14px;
+  line-height: 55px;
+  font-weight: normal;
+  background-color: #fff;
+  margin-top: 1px!important;
+  display: flex;
+  align-items: center;
+}
+.hot-cate .am-grid-item-content {
+  padding: 0!important;
+}
+.hot-cate .img-title{
+  color: #666;
+  font-size: 13px;
+  font-weight: normal;
+}
+.hot-cate .am-grid .am-flexbox .am-flexbox-item.am-grid-item {
+  margin: 5px;
+}
+
+.hot-cate .cate-title .cate-grid {
+  display: 'flex';
+  justify-content: 'center';
+  align-items: 'center';
+}
+
+.hot-cate .cate-title .cate-grid:last-child {
+  font-size: 22px;
+}
+
+.tian-h-search .am-search {
+  position: relative;
+  display: flex;
+  align-items: center;
+  height: 40px;
+  padding: 35px 8px;
+  overflow: hidden;
+  background-color: #fffeff;
+}
+
+.tc-header-1 .tc-hd-div-1 {
+  height: 52.47px;
+}
+
+.tc-header-1 .am-search-cancel {
+  color: #fff
+}
+
+/* 轮播背景图案 */
+.tc-hm-sw {
+  position: relative; 
+  width: 100%; 
+  height: 128px;
+  background-color: #108ee9;
+  border-bottom-left-radius: 100% 25%;
+  border-bottom-right-radius: 100% 25%;
+}
+
+.tc-header-1 .am-search {
+  position: relative;
+  display: flex;
+  align-items: center;
+  height: 52.47px;
+  padding: 0!important;
+  overflow: hidden;
+  background-color: #108ee9;
+}
+
+.tian-h-search .am-search-input{
+  flex: 1 1;
+  position: relative;
+  width: 100%;
+  height: 40px;
+  overflow: hidden;
+  background-color: #fff;
+  border: 1px solid #f0f0f0;
+  background-clip: padding-box;
+  border-radius: 30px;
+}
+
+.tian-h-search .am-search-synthetic-ph {
+  height: 40px;
+  line-height: 40px;
+}
+
+.tian-h-search .am-search-input input[type="search"]{
+  height: 40px;
+}
+
+.tian-h-search .am-search-input .am-search-clear{
+  width: 25px;
+  height: 25px;
+}
+
+.tian-Good .tc-good-grid {
+  height: 100%;
+  width: 100%;
+  color: #666 !important;
+  display: flex;
+  justify-content: center;
+  justify-items: center;
+  font-size: 16px;
+}
+
+.tian-Good .tc-good-grid .tc-img {
+   width: 50px;
+}
+.tian-Good .tc-good-grid .tc-last-title {
+  color: #666 !important;
+  font-size: 14px!important;
+  transform: translate(-120%, 30%);
+}
+
+.tian-Good .img-title {
+  color: #fab63e;
+  font-size: 22px;
+  position: absolute;
+  transform: translate(15%, -120%);
+}
+
+.tian-Good .tc-good-dt-view {
+  display: flex;
+  padding: 5px 0px;
+}
+
+.tian-Good .tc-good-dt-icon-list {
+  display: flex;
+}
+
+.tian-Good .tc-good-dt-view span {
+  padding-left: 3px;
+  font-size: 14px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+
+
+
+/** 精品资源 */
+.tiancai-boutique .tc-last-detail {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

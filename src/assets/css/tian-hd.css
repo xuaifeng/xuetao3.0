@@ -1,0 +1,26 @@
+.tc-cs-body .am-navbar {
+  height: 52.47px;
+}
+.tc-cs-body .am-card-body {
+  padding: 0!important;
+}
+
+.am-popover-mask {
+  background-color: rgba(0, 0, 0, 0)
+}
+
+.am-popover-content {
+  margin-top: 28px; 
+}
+
+.am-popover-content .am-popover-arrow {
+  top: 25px;
+  /* background-color: #2c2929e0; */
+}
+.am-popover-inner{
+  color: rgb(0, 0, 0);
+  /* background-color: #2c2929e0; */
+}
+.am-popover-inner-wrapper {
+ /* background-color: #00000000;  */
+}

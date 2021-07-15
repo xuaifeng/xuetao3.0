@@ -1,0 +1,22 @@
+1. 问题一： 
+   Array.prototype.map() expects a return value from arrow function  array-callback-return
+Array的 map / reduce / filter 都需要一个返回值
+
+在 不需要返回值的地方 使用 foreach 遍历数组
+
+
+2. Experimental support for decorators is a feature that is subject to change in a future release. Set the ‘experimentalDecorators’ option to remove this warning.”and“Unable to resolve signature of method decorator when called as an expression
+
+解决办法：
+ javascript.implicitProjectConfig.experimentalDecorators
+  VSCode的 settings.json 中设置 "javascript.implicitProjectConfig.experimentalDecorators":true
+
+3. jsx 文件第一个 单词提示  
+  ESLint is disabled since its execution has not been approved or denied yet  
+
+  解决： 打开 vscode 右下角 的 ESLint 验证
+
+
+4. validateDOMNesting(...): ＜div＞ cannot appear as a descendant of ＜p＞
+
+  p 标签内 只能包裹内联元素, 不能包裹块级元素.
